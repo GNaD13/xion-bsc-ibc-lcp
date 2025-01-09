@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/gnad/gnad/cosmos-bsc-ibc-lcp/enclave/target/debug/build/typenum-ccd0baabb2f80bf4/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/gnad/gnad/cosmos-bsc-ibc-lcp/enclave/target/debug/build/typenum-ccd0baabb2f80bf4/out/op.rs
